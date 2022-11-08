@@ -1,0 +1,1852 @@
+17:44:24 [INFO] Enabled BungeeCord version unknown
+17:44:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:44:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:44:25 [INFO] Listening websockets on /127.0.0.1:1
+17:44:26 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:44:26 [INFO] Reload complete
+17:44:26 [INFO] Listening on /127.11.0.1:37113
+17:51:42 [INFO] [CytusMc] <-> InitialHandler has connected
+17:51:42 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+17:51:42 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:51:42 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+17:56:13 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+17:56:13 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+17:56:13 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+17:56:13 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+17:56:32 [INFO] [CytusMc] <-> InitialHandler has connected
+17:56:32 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+17:56:32 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:56:32 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+17:57:09 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+17:57:09 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+17:58:27 [INFO] Enabled BungeeCord version unknown
+17:58:28 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:58:28 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:58:28 [INFO] Listening websockets on /127.0.0.1:1
+17:58:29 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:58:29 [INFO] Reload complete
+17:58:29 [INFO] Listening on /127.11.0.1:40689
+18:00:02 [INFO] Enabled BungeeCord version unknown
+18:00:03 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:00:03 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:00:03 [INFO] Listening websockets on /127.0.0.1:1
+18:00:03 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:00:03 [INFO] Reload complete
+18:00:03 [INFO] Listening on /127.11.0.1:40591
+18:01:02 [INFO] [CytusMc] <-> InitialHandler has connected
+18:01:02 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:01:02 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:01:03 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:10:28 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+18:10:28 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+18:10:35 [INFO] [CytusMc] <-> InitialHandler has connected
+18:10:35 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:10:35 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:10:35 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:24:54 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+18:24:54 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+18:25:52 [INFO] [CytusMc] <-> InitialHandler has connected
+18:25:52 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:25:52 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:25:52 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:40:47 [INFO] Enabled BungeeCord version unknown
+18:40:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:40:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:40:50 [INFO] Listening websockets on /127.0.0.1:1
+18:40:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:40:51 [INFO] Reload complete
+18:40:51 [INFO] Listening on /127.11.0.1:37537
+18:41:36 [INFO] [CytusMc] <-> InitialHandler has connected
+18:41:36 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:41:36 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:41:37 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:48:41 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+18:48:41 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+18:48:45 [INFO] [CytusMc] <-> InitialHandler has connected
+18:48:45 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:48:45 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:48:45 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+19:07:05 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+19:07:05 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+19:07:09 [INFO] [CytusMc] <-> InitialHandler has connected
+19:07:09 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+19:07:09 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:07:09 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+19:10:06 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+19:10:06 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:06:51 [INFO] Enabled BungeeCord version unknown
+22:06:53 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:06:53 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:06:54 [INFO] Listening websockets on /127.0.0.1:1
+22:06:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:06:55 [INFO] Reload complete
+22:06:56 [INFO] Listening on /127.11.0.1:37387
+22:07:25 [INFO] [CytusMc] <-> InitialHandler has connected
+22:07:26 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:07:26 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:07:28 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:07:43 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:07:46 [INFO] [CytusMc] <-> InitialHandler has connected
+22:07:46 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:07:46 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:07:46 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:07:51 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:07:55 [INFO] [CytusMc] <-> InitialHandler has connected
+22:07:55 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:07:55 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:07:55 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:07:57 [WARNING] [CytusMc] <-> ServerConnector [lobby] - read timed out
+22:07:57 [INFO] [CytusMc] <-> ServerConnector [lobby] has disconnected
+22:08:13 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:08:16 [WARNING] [CytusMc] <-> ServerConnector [lobby] - read timed out
+22:08:16 [INFO] [CytusMc] <-> ServerConnector [lobby] has disconnected
+22:08:49 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:08:56 [INFO] [CytusMc] <-> InitialHandler has connected
+22:08:56 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:08:56 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:08:56 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:11:31 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:11:31 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:12:52 [INFO] [CytusMc] <-> InitialHandler has connected
+22:12:52 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:12:52 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:12:52 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:19:03 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+22:19:03 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+22:19:03 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:19:03 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:21:59 [INFO] Enabled BungeeCord version unknown
+22:22:01 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:22:01 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:22:02 [INFO] Listening websockets on /127.0.0.1:1
+22:22:02 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:22:02 [INFO] Reload complete
+22:22:03 [INFO] Listening on /127.11.0.1:35007
+22:22:39 [INFO] [CytusMc] <-> InitialHandler has connected
+22:22:39 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:22:39 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:22:39 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:22:51 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:22:59 [INFO] [CytusMc] <-> InitialHandler has connected
+22:22:59 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:22:59 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:23:00 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:23:09 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:24:49 [WARNING] [CytusMc] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+22:24:49 [INFO] [CytusMc] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+22:24:49 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:24:49 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:25:23 [INFO] Enabled BungeeCord version unknown
+22:25:28 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:25:28 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:25:29 [INFO] Listening websockets on /127.0.0.1:1
+22:25:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:25:31 [INFO] Reload complete
+22:25:31 [INFO] Listening on /127.11.0.1:38985
+22:25:52 [INFO] [CytusMc] <-> InitialHandler has connected
+22:25:52 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+22:25:52 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:25:53 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:27:01 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:27:01 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+08:52:18 [INFO] Enabled BungeeCord version unknown
+08:52:20 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+08:52:20 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+08:52:20 [INFO] Listening websockets on /127.0.0.1:1
+08:52:21 [INFO] Server bans.txt changed, it will be reloaded automatically
+08:52:21 [INFO] Reload complete
+08:52:21 [INFO] Listening on /127.11.0.1:40305
+08:56:54 [INFO] [CytusMc] <-> InitialHandler has connected
+08:56:54 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+08:56:54 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+08:56:54 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+09:02:47 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+09:02:47 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+09:02:48 [SEVERE] Nov 03, 2022 9:02:47 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+09:02:48 [SEVERE] Nov 03, 2022 9:02:48 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+09:02:56 [INFO] [CytusMc] <-> InitialHandler has connected
+09:02:56 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+09:02:56 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:02:56 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+09:05:14 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+09:05:14 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+09:18:44 [INFO] [CytusMc] <-> InitialHandler has connected
+09:18:44 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+09:18:44 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:18:44 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+09:22:57 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+09:22:57 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+09:33:29 [INFO] [silly_monkey] <-> InitialHandler has connected
+09:33:29 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:33:29 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:33:29 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+09:54:21 [INFO] Enabled BungeeCord version unknown
+09:54:23 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+09:54:23 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+09:54:24 [INFO] Listening websockets on /127.0.0.1:1
+09:54:26 [INFO] Server bans.txt changed, it will be reloaded automatically
+09:54:26 [INFO] Reload complete
+09:54:26 [INFO] Listening on /127.11.0.1:45461
+09:58:18 [INFO] [silly_monkey] <-> InitialHandler has connected
+09:58:18 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:58:18 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:58:19 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:05:30 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:05:30 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:43:36 [INFO] [CytusMc] <-> InitialHandler has connected
+10:43:36 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+10:43:36 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:43:36 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+10:53:22 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+10:53:22 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+10:53:28 [INFO] [CytusMc] <-> InitialHandler has connected
+10:53:28 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+10:53:28 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:53:28 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+10:54:43 [INFO] Enabled BungeeCord version unknown
+10:54:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:54:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:54:46 [INFO] Listening websockets on /127.0.0.1:1
+10:54:49 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:54:49 [INFO] Reload complete
+10:54:49 [INFO] Listening on /127.11.0.1:36521
+11:01:10 [INFO] [CytusMc] <-> InitialHandler has connected
+11:01:10 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+11:01:10 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:01:10 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+11:06:32 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+11:06:32 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+11:39:35 [INFO] [CytusMc] <-> InitialHandler has connected
+11:39:35 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+11:39:35 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:39:35 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+11:42:16 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+11:42:16 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+11:45:54 [INFO] [silly_monkey] <-> InitialHandler has connected
+11:45:54 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:45:54 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:45:54 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+11:49:00 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+11:49:00 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+11:49:04 [INFO] [silly_monkey] <-> InitialHandler has connected
+11:49:04 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:49:04 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:49:04 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+11:51:33 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+11:51:33 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+12:04:52 [INFO] Enabled BungeeCord version unknown
+12:04:53 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:04:53 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:04:53 [INFO] Listening websockets on /127.0.0.1:1
+12:04:54 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:04:54 [INFO] Reload complete
+12:04:54 [INFO] Listening on /127.11.0.1:33691
+12:15:17 [INFO] [CytusMc] <-> InitialHandler has connected
+12:15:17 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+12:15:17 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:15:18 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+12:19:45 [INFO] [silly_monkey] <-> InitialHandler has connected
+12:19:45 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+12:19:45 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:19:45 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+12:20:51 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+12:20:51 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+12:21:03 [INFO] [OncomingStorm78] <-> InitialHandler has connected
+12:21:03 [INFO] Player 'OncomingStorm78' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+12:21:03 [INFO] Player 'OncomingStorm78' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:21:03 [INFO] [OncomingStorm78] <-> ServerConnector [lobby] has connected
+12:22:45 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+12:22:45 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+12:25:23 [INFO] [OncomingStorm78] -> UpstreamBridge has disconnected
+12:25:23 [INFO] [OncomingStorm78] <-> DownstreamBridge <-> [lobby] has disconnected
+13:30:25 [INFO] Enabled BungeeCord version unknown
+13:30:26 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:30:26 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:30:27 [INFO] Listening websockets on /127.0.0.1:1
+13:30:27 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:30:27 [INFO] Reload complete
+13:30:28 [INFO] Listening on /127.11.0.1:33433
+13:32:34 [INFO] [CytusMc] <-> InitialHandler has connected
+13:32:34 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:32:34 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:32:34 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:35:40 [INFO] [OncomingStorm78] <-> InitialHandler has connected
+13:35:40 [INFO] Player 'OncomingStorm78' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:35:40 [INFO] Player 'OncomingStorm78' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:35:40 [INFO] [OncomingStorm78] <-> ServerConnector [lobby] has connected
+13:35:51 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+13:35:51 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+13:35:51 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:35:51 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:37:03 [INFO] [CytusMc] <-> InitialHandler has connected
+13:37:03 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:37:03 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:37:03 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:38:53 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+13:38:53 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+13:38:53 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:38:53 [SEVERE] Nov 03, 2022 1:38:53 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+13:38:53 [SEVERE] Nov 03, 2022 1:38:53 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+13:38:54 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:40:30 [INFO] [OncomingStorm78] disconnected with: [Proxy] Lost connection to server.
+13:40:30 [INFO] [OncomingStorm78] <-> DownstreamBridge <-> [lobby] has disconnected
+13:40:30 [INFO] [OncomingStorm78] -> UpstreamBridge has disconnected
+13:46:09 [INFO] [CytusMc] <-> InitialHandler has connected
+13:46:09 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:46:09 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:46:09 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:48:34 [INFO] [silly_monkey] <-> InitialHandler has connected
+13:48:34 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:48:34 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:48:35 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+13:51:08 [INFO] [null] <-> InitialHandler has connected
+13:51:08 [INFO] Player 'null' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:51:08 [INFO] Player 'null' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:51:08 [INFO] [null] <-> ServerConnector [lobby] has connected
+13:52:13 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+13:52:13 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+13:52:13 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:52:13 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:52:27 [INFO] [null] disconnected with: [Proxy] Lost connection to server.
+13:52:27 [INFO] [null] <-> DownstreamBridge <-> [lobby] has disconnected
+13:52:27 [INFO] [null] -> UpstreamBridge has disconnected
+13:52:30 [INFO] [CytusMc] <-> InitialHandler has connected
+13:52:30 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:52:30 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:52:30 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:53:18 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+13:53:18 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+13:53:18 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:53:19 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:53:49 [INFO] [CytusMc] <-> InitialHandler has connected
+13:53:49 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:53:49 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:53:49 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:54:43 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+13:54:43 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+13:54:43 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:54:43 [SEVERE] Nov 03, 2022 1:54:43 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+13:54:43 [SEVERE] Nov 03, 2022 1:54:43 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+13:54:43 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:55:33 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+13:55:33 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+13:56:13 [INFO] [OncomingStorm78] <-> InitialHandler has connected
+13:56:13 [INFO] Player 'OncomingStorm78' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:56:13 [INFO] Player 'OncomingStorm78' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:56:13 [INFO] [OncomingStorm78] <-> ServerConnector [lobby] has connected
+13:57:15 [INFO] [silly_monkey] <-> InitialHandler has connected
+13:57:15 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:57:15 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:57:15 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+13:59:50 [INFO] [silly_monkey] disconnected with: [Kicked] disconnect.spam
+13:59:50 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+13:59:50 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+14:00:17 [INFO] [silly_monkey] <-> InitialHandler has connected
+14:00:17 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:00:17 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:00:17 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+14:00:55 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+14:00:55 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+14:01:51 [WARNING] [OncomingStorm78] -> UpstreamBridge - read timed out
+14:01:51 [INFO] [OncomingStorm78] disconnected with: ReadTimeoutException : null
+14:01:51 [INFO] [OncomingStorm78] -> UpstreamBridge has disconnected
+14:01:51 [INFO] [OncomingStorm78] <-> DownstreamBridge <-> [lobby] has disconnected
+14:02:07 [INFO] [OncomingStorm78] <-> InitialHandler has connected
+14:02:07 [INFO] Player 'OncomingStorm78' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:02:07 [INFO] Player 'OncomingStorm78' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:02:08 [INFO] [OncomingStorm78] <-> ServerConnector [lobby] has connected
+14:08:19 [INFO] [CytusMc] <-> InitialHandler has connected
+14:08:19 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:08:19 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:08:19 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:10:56 [INFO] [OncomingStorm78] -> UpstreamBridge has disconnected
+14:10:56 [INFO] [OncomingStorm78] <-> DownstreamBridge <-> [lobby] has disconnected
+14:11:02 [INFO] [OncomingStorm78] <-> InitialHandler has connected
+14:11:02 [INFO] Player 'OncomingStorm78' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:11:02 [INFO] Player 'OncomingStorm78' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:11:02 [INFO] [OncomingStorm78] <-> ServerConnector [lobby] has connected
+14:12:19 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+14:12:19 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+14:12:19 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:12:19 [SEVERE] Nov 03, 2022 2:12:19 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+14:12:19 [SEVERE] Nov 03, 2022 2:12:19 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+14:12:19 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+14:12:39 [INFO] [CytusMc] <-> InitialHandler has connected
+14:12:39 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:12:39 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:12:39 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:14:19 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+14:14:19 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+14:14:19 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:14:19 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+14:14:20 [SEVERE] Nov 03, 2022 2:14:20 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+14:14:20 [SEVERE] Nov 03, 2022 2:14:20 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+14:15:17 [INFO] [CytusMc] <-> InitialHandler has connected
+14:15:17 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:15:17 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:15:17 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:19:36 [INFO] [OncomingStorm78] -> UpstreamBridge has disconnected
+14:19:36 [WARNING] [OncomingStorm78] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+14:19:36 [INFO] [OncomingStorm78] <-> DownstreamBridge <-> [lobby] has disconnected
+14:20:02 [INFO] [OncomingStorm78] <-> InitialHandler has connected
+14:20:02 [INFO] Player 'OncomingStorm78' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:20:02 [INFO] Player 'OncomingStorm78' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:20:02 [INFO] [OncomingStorm78] <-> ServerConnector [lobby] has connected
+14:20:22 [INFO] [OncomingStorm78] -> UpstreamBridge has disconnected
+14:20:22 [INFO] [OncomingStorm78] <-> DownstreamBridge <-> [lobby] has disconnected
+14:22:33 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+14:22:33 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+14:22:33 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:22:33 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+14:24:26 [INFO] [CytusMc] <-> InitialHandler has connected
+14:24:26 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:24:26 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:24:27 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:25:20 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:25:20 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+14:41:18 [INFO] Enabled BungeeCord version unknown
+14:41:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:41:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:41:26 [INFO] Listening websockets on /127.0.0.1:1
+14:41:30 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:41:30 [INFO] Reload complete
+14:41:30 [INFO] Listening on /127.11.0.1:33219
+14:41:53 [INFO] [silly_monkey] <-> InitialHandler has connected
+14:41:53 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:41:53 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:41:54 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+14:43:20 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+14:43:20 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+14:47:13 [INFO] [CytusMc] <-> InitialHandler has connected
+14:47:13 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+14:47:13 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:47:13 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:48:44 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:48:44 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+14:48:58 [INFO] [CytusMc] <-> InitialHandler has connected
+14:48:58 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+14:48:58 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:48:58 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:53:22 [INFO] [fortnitesexgamer] <-> InitialHandler has connected
+14:53:22 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:53:22 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:53:22 [INFO] [fortnitesexgamer] <-> ServerConnector [lobby] has connected
+14:54:36 [INFO] [fortnitesexgamer] -> UpstreamBridge has disconnected
+14:54:36 [INFO] [fortnitesexgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+14:55:04 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:55:04 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+14:55:11 [INFO] [CytusMc] <-> InitialHandler has connected
+14:55:11 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+14:55:11 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:55:11 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:55:25 [INFO] [fortnitesexgamer] <-> InitialHandler has connected
+14:55:25 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:55:25 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:55:25 [INFO] [fortnitesexgamer] <-> ServerConnector [lobby] has connected
+14:57:51 [INFO] [fortnitesexgamer] disconnected with: [Kicked] Kicked by an operator.
+14:57:51 [INFO] [fortnitesexgamer] -> UpstreamBridge has disconnected
+14:57:51 [INFO] [fortnitesexgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+14:57:59 [INFO] [fortnitesexgamer] <-> InitialHandler has connected
+14:57:59 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:57:59 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:57:59 [INFO] [fortnitesexgamer] <-> ServerConnector [lobby] has connected
+14:58:48 [INFO] [fortnitesexgamer] -> UpstreamBridge has disconnected
+14:58:48 [INFO] [fortnitesexgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+15:03:35 [INFO] [official_oscar_D] <-> InitialHandler has connected
+15:03:35 [INFO] Player 'official_oscar_D' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+15:03:35 [INFO] Player 'official_oscar_D' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+15:03:35 [INFO] [official_oscar_D] <-> ServerConnector [lobby] has connected
+15:03:47 [INFO] [official_oscar_D] -> UpstreamBridge has disconnected
+15:03:47 [INFO] [official_oscar_D] <-> DownstreamBridge <-> [lobby] has disconnected
+15:27:25 [INFO] [fortnitesexgamer] <-> InitialHandler has connected
+15:27:25 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+15:27:25 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+15:27:25 [INFO] [fortnitesexgamer] <-> ServerConnector [lobby] has connected
+15:27:37 [INFO] [fortnitesexgamer] disconnected with: [Kicked] leave
+15:27:37 [INFO] [fortnitesexgamer] -> UpstreamBridge has disconnected
+15:27:37 [INFO] [fortnitesexgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+15:27:46 [INFO] [fortnitesexgamer] <-> InitialHandler has connected
+15:27:46 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+15:27:46 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+15:27:46 [INFO] [fortnitesexgamer] <-> ServerConnector [lobby] has connected
+15:28:18 [INFO] [fortnitesexgamer] disconnected with: [Kicked] dont come back
+15:28:18 [INFO] [fortnitesexgamer] -> UpstreamBridge has disconnected
+15:28:18 [INFO] [fortnitesexgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+15:29:18 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+15:29:18 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+16:11:24 [INFO] Enabled BungeeCord version unknown
+16:11:30 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:11:30 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:11:30 [INFO] Listening websockets on /127.0.0.1:1
+16:11:32 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:11:32 [INFO] Reload complete
+16:11:33 [INFO] Listening on /127.11.0.1:33823
+16:12:53 [INFO] [CytusMc] <-> InitialHandler has connected
+16:12:53 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+16:12:53 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+16:12:53 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+16:16:24 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+16:16:24 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+16:18:03 [INFO] [CytusMc] <-> InitialHandler has connected
+16:18:03 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+16:18:03 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+16:18:03 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+16:18:31 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+16:18:31 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+17:08:29 [INFO] [mrmoo42] <-> InitialHandler has connected
+17:08:29 [INFO] Player 'mrmoo42' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+17:08:29 [INFO] Player 'mrmoo42' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:08:29 [INFO] [mrmoo42] <-> ServerConnector [lobby] has connected
+17:11:18 [INFO] Enabled BungeeCord version unknown
+17:11:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:11:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:11:19 [INFO] Listening websockets on /127.0.0.1:1
+17:11:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:11:20 [INFO] Reload complete
+17:11:21 [INFO] Listening on /127.11.0.1:44237
+17:11:23 [INFO] [mrmoo42] <-> InitialHandler has connected
+17:11:23 [INFO] Player 'mrmoo42' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+17:11:23 [INFO] Player 'mrmoo42' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:11:24 [INFO] [mrmoo42] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+17:11:24 [INFO] [mrmoo42] -> UpstreamBridge has disconnected
+17:12:06 [INFO] [mrmoo42] <-> InitialHandler has connected
+17:12:06 [INFO] Player 'mrmoo42' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+17:12:06 [INFO] Player 'mrmoo42' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:12:07 [INFO] [mrmoo42] <-> ServerConnector [lobby] has connected
+17:15:02 [INFO] [mrmoo42] -> UpstreamBridge has disconnected
+17:15:02 [INFO] [mrmoo42] <-> DownstreamBridge <-> [lobby] has disconnected
+17:48:47 [INFO] [mrmoo42] <-> InitialHandler has connected
+17:48:47 [INFO] Player 'mrmoo42' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+17:48:47 [INFO] Player 'mrmoo42' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:48:47 [INFO] [mrmoo42] <-> ServerConnector [lobby] has connected
+17:50:03 [INFO] [mrmoo42] -> UpstreamBridge has disconnected
+17:50:03 [INFO] [mrmoo42] <-> DownstreamBridge <-> [lobby] has disconnected
+17:50:08 [INFO] [mrmoo42] <-> InitialHandler has connected
+17:50:08 [INFO] Player 'mrmoo42' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+17:50:08 [INFO] Player 'mrmoo42' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:50:08 [INFO] [mrmoo42] <-> ServerConnector [lobby] has connected
+17:54:23 [INFO] [mrmoo42] -> UpstreamBridge has disconnected
+17:54:24 [INFO] [mrmoo42] <-> DownstreamBridge <-> [lobby] has disconnected
+18:00:23 [INFO] [mrmoo42] <-> InitialHandler has connected
+18:00:23 [INFO] Player 'mrmoo42' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+18:00:23 [INFO] Player 'mrmoo42' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:00:23 [INFO] [mrmoo42] <-> ServerConnector [lobby] has connected
+18:05:58 [INFO] [mrmoo42] -> UpstreamBridge has disconnected
+18:05:58 [INFO] [mrmoo42] <-> DownstreamBridge <-> [lobby] has disconnected
+21:53:45 [INFO] Enabled BungeeCord version unknown
+21:53:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:53:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:53:47 [INFO] Listening websockets on /127.0.0.1:1
+21:53:48 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:53:48 [INFO] Reload complete
+21:53:48 [INFO] Listening on /127.11.0.1:43067
+21:54:22 [INFO] [CytusMc] <-> InitialHandler has connected
+21:54:23 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+21:54:23 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:54:23 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+21:55:11 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+21:55:11 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+21:55:17 [INFO] [CytusMc] <-> InitialHandler has connected
+21:55:17 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+21:55:17 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:55:17 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:00:21 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+22:00:21 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+22:00:21 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:00:21 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:00:40 [INFO] [CytusMc] <-> InitialHandler has connected
+22:00:40 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:00:40 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:00:40 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:05:57 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+22:05:57 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+22:05:57 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:05:57 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:07:52 [INFO] [CytusMc] <-> InitialHandler has connected
+22:07:52 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:07:52 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:07:53 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:07:53 [WARNING] [CytusMc] -> UpstreamBridge - IOException: Connection reset by peer
+22:07:53 [INFO] [CytusMc] disconnected with: IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+22:07:53 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:07:53 [WARNING] No client connected for pending server!
+22:07:53 [INFO] [CytusMc] <-> ServerConnector [lobby] has disconnected
+22:07:58 [INFO] [CytusMc] <-> InitialHandler has connected
+22:07:58 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:07:58 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:07:58 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:37:37 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:37:37 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:37:43 [INFO] [CytusMc] <-> InitialHandler has connected
+22:37:43 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:37:43 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:37:43 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:38:30 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+22:38:30 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+22:38:30 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:38:30 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:38:56 [INFO] [CytusMc] <-> InitialHandler has connected
+22:38:56 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:38:56 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:38:56 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:51:31 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:51:31 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:51:38 [INFO] [CytusMc] <-> InitialHandler has connected
+22:51:38 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:51:38 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:51:38 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:53:54 [INFO] Enabled BungeeCord version unknown
+22:53:56 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+22:53:56 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+22:53:56 [INFO] Listening websockets on /127.0.0.1:1
+22:53:57 [INFO] Server bans.txt changed, it will be reloaded automatically
+22:53:57 [INFO] Reload complete
+22:53:57 [INFO] Listening on /127.11.0.1:33495
+22:54:28 [INFO] [CytusMc] <-> InitialHandler has connected
+22:54:28 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:54:28 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:54:29 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:54:41 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:54:46 [INFO] [CytusMc] <-> InitialHandler has connected
+22:54:46 [INFO] Player 'CytusMc' [/34.121.210.98] has remote websocket IP: 34.121.210.98
+22:54:46 [INFO] Player 'CytusMc' [/34.121.210.98] is using a client at: eaglercraft-server.20lflannigan.repl.co
+22:54:47 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+22:54:53 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+22:55:50 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+22:55:51 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+07:32:31 [INFO] Enabled BungeeCord version unknown
+07:32:32 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:32:32 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:32:32 [INFO] Listening websockets on /127.0.0.1:1
+07:32:33 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:32:33 [INFO] Reload complete
+07:32:34 [INFO] Listening on /127.11.0.1:37487
+09:12:00 [INFO] Enabled BungeeCord version unknown
+09:12:01 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+09:12:01 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+09:12:01 [INFO] Listening websockets on /127.0.0.1:1
+09:12:02 [INFO] Server bans.txt changed, it will be reloaded automatically
+09:12:02 [INFO] Reload complete
+09:12:02 [INFO] Listening on /127.11.0.1:34217
+09:12:41 [INFO] [CytusMc] <-> InitialHandler has connected
+09:12:41 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:12:41 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:12:42 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+09:29:51 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+09:29:51 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+09:29:51 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+09:29:51 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+09:30:37 [INFO] [CytusMc] <-> InitialHandler has connected
+09:30:37 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:30:37 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:30:37 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+09:45:16 [INFO] [official_oscar_D] <-> InitialHandler has connected
+09:45:16 [INFO] Player 'official_oscar_D' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:45:16 [INFO] Player 'official_oscar_D' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:45:16 [INFO] [official_oscar_D] <-> ServerConnector [lobby] has connected
+09:46:04 [INFO] [official_oscar_D] disconnected with: [Kicked] your greasy
+09:46:04 [INFO] [official_oscar_D] -> UpstreamBridge has disconnected
+09:46:04 [SEVERE] Nov 04, 2022 9:46:04 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+09:46:04 [SEVERE] Nov 04, 2022 9:46:04 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+09:46:04 [INFO] [official_oscar_D] <-> DownstreamBridge <-> [lobby] has disconnected
+09:47:11 [INFO] [silly_monkey] <-> InitialHandler has connected
+09:47:11 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:47:11 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:47:11 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+09:49:10 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+09:49:10 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+09:51:12 [INFO] [silly_monkey] <-> InitialHandler has connected
+09:51:12 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:51:12 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:51:12 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+09:53:08 [INFO] [silly_monkey] disconnected with: [Kicked] Nope!
+09:53:08 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+09:53:08 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+09:53:08 [SEVERE] Nov 04, 2022 9:53:08 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+09:53:08 [SEVERE] Nov 04, 2022 9:53:08 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+09:53:15 [INFO] [silly_monkey] <-> InitialHandler has connected
+09:53:15 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:53:15 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:53:16 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+09:56:10 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+09:56:10 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+09:58:39 [INFO] [silly_monkey] <-> InitialHandler has connected
+09:58:39 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:58:39 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:58:39 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:00:48 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:00:48 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:00:55 [INFO] [silly_monkey] <-> InitialHandler has connected
+10:00:55 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:00:55 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:00:55 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:01:01 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:01:01 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:01:57 [INFO] [silly_monkey] <-> InitialHandler has connected
+10:01:57 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:01:57 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:01:57 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:03:47 [INFO] [silly_monkey] disconnected with: [Kicked] Nope!
+10:03:47 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:03:47 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:04:55 [INFO] [CytusMc] disconnected with: [Proxy] Lost connection to server.
+10:04:55 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+10:04:55 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+10:05:12 [INFO] [silly_monkey] <-> InitialHandler has connected
+10:05:12 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:05:12 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:05:12 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:05:16 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:05:16 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:24:10 [INFO] Enabled BungeeCord version unknown
+10:24:12 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:24:12 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:24:12 [INFO] Listening websockets on /127.0.0.1:1
+10:24:12 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:24:12 [INFO] Reload complete
+10:24:12 [INFO] Listening on /127.11.0.1:33641
+10:28:51 [INFO] [CytusMc] <-> InitialHandler has connected
+10:28:51 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:28:51 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:28:53 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+10:28:57 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+10:29:02 [INFO] [CytusMc] <-> InitialHandler has connected
+10:29:02 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:29:02 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:29:02 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+10:29:12 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+10:29:19 [INFO] [silly_monkey] <-> InitialHandler has connected
+10:29:19 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:29:19 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:29:20 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:30:07 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:30:07 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:30:12 [INFO] [silly_monkey] <-> InitialHandler has connected
+10:30:12 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:30:12 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:30:12 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:30:28 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:30:28 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:30:29 [SEVERE] Nov 04, 2022 10:30:29 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+10:30:29 [SEVERE] Nov 04, 2022 10:30:29 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+10:37:28 [INFO] [mrmoo420] <-> InitialHandler has connected
+10:37:28 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:37:28 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:37:29 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+10:40:21 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+10:40:21 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+10:40:21 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+10:40:21 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+10:40:21 [SEVERE] Nov 04, 2022 10:40:21 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+10:40:21 [SEVERE] Nov 04, 2022 10:40:21 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+10:41:27 [INFO] [CytusMc] <-> InitialHandler has connected
+10:41:27 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:41:27 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:41:27 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+10:43:17 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+10:43:17 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+10:43:17 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+10:43:17 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+10:43:58 [INFO] [CytusMc] <-> InitialHandler has connected
+10:43:58 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:43:58 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:43:58 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+10:44:48 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+10:44:48 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+10:44:48 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+10:44:48 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+10:44:48 [SEVERE] Nov 04, 2022 10:44:48 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+10:44:48 [SEVERE] Nov 04, 2022 10:44:48 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+10:46:57 [INFO] [CytusMc] <-> InitialHandler has connected
+10:46:57 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:46:57 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:46:57 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+10:49:51 [WARNING] [mrmoo420] -> UpstreamBridge - read timed out
+10:49:51 [INFO] [mrmoo420] disconnected with: ReadTimeoutException : null
+10:49:51 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+10:49:51 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+10:49:51 [SEVERE] Nov 04, 2022 10:49:51 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+10:49:51 [SEVERE] Nov 04, 2022 10:49:51 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 3 channel(s) to the new Selector.
+
+10:51:14 [INFO] [mrmoo420] <-> InitialHandler has connected
+10:51:14 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:51:14 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:51:14 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+10:53:48 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+10:53:48 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+10:53:48 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+10:53:48 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+10:53:54 [WARNING] [mrmoo420] -> UpstreamBridge - read timed out
+10:53:54 [INFO] [mrmoo420] disconnected with: ReadTimeoutException : null
+10:53:54 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+10:53:54 [SEVERE] Nov 04, 2022 10:53:54 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+10:53:54 [SEVERE] Nov 04, 2022 10:53:54 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+10:53:54 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+10:54:03 [INFO] [mrmoo420] <-> InitialHandler has connected
+10:54:03 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:54:03 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:54:03 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+10:55:16 [WARNING] [mrmoo420] -> UpstreamBridge - read timed out
+10:55:16 [INFO] [mrmoo420] disconnected with: ReadTimeoutException : null
+10:55:16 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+10:55:16 [SEVERE] Nov 04, 2022 10:55:16 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+10:55:16 [SEVERE] Nov 04, 2022 10:55:16 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+10:55:16 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+10:58:16 [INFO] [mrmoo420] <-> InitialHandler has connected
+10:58:16 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:58:16 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:58:16 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+11:00:33 [INFO] [CytusMc] <-> InitialHandler has connected
+11:00:33 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:00:33 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:00:33 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+11:02:21 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+11:02:21 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+11:02:21 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+11:02:21 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+11:09:26 [WARNING] [mrmoo420] -> UpstreamBridge - read timed out
+11:09:26 [INFO] [mrmoo420] disconnected with: ReadTimeoutException : null
+11:09:26 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+11:09:26 [SEVERE] Nov 04, 2022 11:09:26 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+11:09:26 [SEVERE] Nov 04, 2022 11:09:26 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+11:09:26 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+11:10:13 [INFO] [mrmoo420] <-> InitialHandler has connected
+11:10:13 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:10:13 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:10:13 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+11:13:19 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+11:13:19 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+11:14:02 [INFO] [CytusMc] <-> InitialHandler has connected
+11:14:02 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:14:02 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:14:02 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+11:15:06 [INFO] [mrmoo420] <-> InitialHandler has connected
+11:15:06 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:15:06 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:15:06 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+11:15:40 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+11:15:40 [WARNING] [CytusMc] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+11:15:40 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+11:18:50 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+11:18:50 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+12:18:05 [INFO] Enabled BungeeCord version unknown
+12:18:06 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:18:06 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:18:06 [INFO] Listening websockets on /127.0.0.1:1
+12:18:07 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:18:07 [INFO] Reload complete
+12:18:07 [INFO] Listening on /127.11.0.1:39979
+12:18:49 [INFO] [silly_monkey] <-> InitialHandler has connected
+12:18:49 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+12:18:49 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:18:50 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+12:20:54 [WARNING] [silly_monkey] -> UpstreamBridge - read timed out
+12:20:54 [INFO] [silly_monkey] disconnected with: ReadTimeoutException : null
+12:20:54 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+12:20:54 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+12:21:52 [INFO] [silly_monkey] <-> InitialHandler has connected
+12:21:52 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+12:21:52 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:21:52 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+12:25:29 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+12:25:29 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+14:47:55 [INFO] Enabled BungeeCord version unknown
+14:47:56 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:47:56 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:47:56 [INFO] Listening websockets on /127.0.0.1:1
+14:47:57 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:47:57 [INFO] Reload complete
+14:47:57 [INFO] Listening on /127.11.0.1:36351
+14:48:38 [INFO] [CytusMc] <-> InitialHandler has connected
+14:48:38 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:48:38 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:48:38 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:59:13 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:59:13 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+15:03:33 [INFO] Enabled BungeeCord version unknown
+15:03:34 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:03:34 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:03:34 [INFO] Listening websockets on /127.0.0.1:1
+15:03:35 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:03:35 [INFO] Reload complete
+15:03:36 [INFO] Listening on /127.11.0.1:36361
+15:04:22 [INFO] [YiggVool42] <-> InitialHandler has connected
+15:04:22 [INFO] Player 'YiggVool42' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+15:04:22 [INFO] Player 'YiggVool42' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+15:04:22 [INFO] [YiggVool42] <-> ServerConnector [lobby] has connected
+15:06:12 [INFO] [YiggVool42] -> UpstreamBridge has disconnected
+15:06:12 [INFO] [YiggVool42] <-> DownstreamBridge <-> [lobby] has disconnected
+15:10:20 [INFO] [CytusMc] <-> InitialHandler has connected
+15:10:20 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+15:10:20 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+15:10:20 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+15:14:51 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+15:14:51 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:27:03 [INFO] Enabled BungeeCord version unknown
+20:27:04 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:27:04 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:27:04 [INFO] Listening websockets on /127.0.0.1:1
+20:27:05 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:27:05 [INFO] Reload complete
+20:27:05 [INFO] Listening on /127.11.0.1:40599
+11:39:54 [INFO] Enabled BungeeCord version unknown
+11:39:55 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:39:55 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:39:56 [INFO] Listening websockets on /127.0.0.1:1
+11:39:57 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:39:57 [INFO] Reload complete
+11:39:57 [INFO] Listening on /127.11.0.1:42465
+11:41:48 [INFO] [mrmoo420] <-> InitialHandler has connected
+11:41:48 [INFO] Player 'mrmoo420' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+11:41:48 [INFO] Player 'mrmoo420' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:41:48 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+11:50:40 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+11:50:40 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+12:01:53 [INFO] [mrmoo420] <-> InitialHandler has connected
+12:01:53 [INFO] Player 'mrmoo420' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+12:01:53 [INFO] Player 'mrmoo420' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:01:53 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+12:05:20 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+12:05:20 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+12:12:36 [INFO] [mrmoo420] <-> InitialHandler has connected
+12:12:36 [INFO] Player 'mrmoo420' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+12:12:36 [INFO] Player 'mrmoo420' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:12:36 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+12:32:46 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+12:32:46 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+12:42:04 [INFO] Enabled BungeeCord version unknown
+12:42:06 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:42:06 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:42:06 [INFO] Listening websockets on /127.0.0.1:1
+12:42:07 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:42:07 [INFO] Reload complete
+12:42:07 [INFO] Listening on /127.11.0.1:45587
+12:46:17 [INFO] [mrmoo420] <-> InitialHandler has connected
+12:46:17 [INFO] Player 'mrmoo420' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+12:46:17 [INFO] Player 'mrmoo420' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:46:17 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+12:47:31 [WARNING] [mrmoo420] -> UpstreamBridge - read timed out
+12:47:31 [INFO] [mrmoo420] disconnected with: ReadTimeoutException : null
+12:47:31 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+12:47:32 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+12:54:02 [INFO] [mrmoo420] <-> InitialHandler has connected
+12:54:02 [INFO] Player 'mrmoo420' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+12:54:02 [INFO] Player 'mrmoo420' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:54:02 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+13:05:20 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+13:05:20 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+13:11:27 [INFO] [mrmoo420] <-> InitialHandler has connected
+13:11:27 [INFO] Player 'mrmoo420' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+13:11:27 [INFO] Player 'mrmoo420' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:11:27 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+13:20:44 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+13:20:44 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+14:43:10 [INFO] Enabled BungeeCord version unknown
+14:43:12 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:43:12 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:43:12 [INFO] Listening websockets on /127.0.0.1:1
+14:43:13 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:43:13 [INFO] Reload complete
+14:43:13 [INFO] Listening on /127.11.0.1:36485
+14:43:29 [INFO] [mrmoo420] <-> InitialHandler has connected
+14:43:29 [INFO] Player 'mrmoo420' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+14:43:29 [INFO] Player 'mrmoo420' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:43:29 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+14:48:16 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+14:48:16 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+08:48:37 [INFO] Enabled BungeeCord version unknown
+08:48:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+08:48:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+08:48:40 [INFO] Listening websockets on /127.0.0.1:1
+08:48:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+08:48:42 [INFO] Reload complete
+08:48:42 [INFO] Listening on /127.11.0.1:43701
+08:49:14 [INFO] [silly_monkey] <-> InitialHandler has connected
+08:49:14 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+08:49:14 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+08:49:14 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+08:49:42 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+08:49:42 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+09:36:29 [INFO] [mrmoo420] <-> InitialHandler has connected
+09:36:29 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:36:29 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:36:29 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+09:41:53 [WARNING] [mrmoo420] -> UpstreamBridge - read timed out
+09:41:53 [INFO] [mrmoo420] disconnected with: ReadTimeoutException : null
+09:41:53 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+09:41:53 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+09:51:49 [INFO] Enabled BungeeCord version unknown
+09:51:51 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+09:51:51 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+09:51:51 [INFO] Listening websockets on /127.0.0.1:1
+09:51:52 [INFO] Server bans.txt changed, it will be reloaded automatically
+09:51:52 [INFO] Reload complete
+09:51:52 [INFO] Listening on /127.11.0.1:41121
+09:52:04 [INFO] [mrmoo420] <-> InitialHandler has connected
+09:52:04 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:52:04 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:52:05 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+09:54:50 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+09:54:50 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+10:37:36 [INFO] [mrmoo420] <-> InitialHandler has connected
+10:37:36 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:37:36 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:37:36 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+10:39:58 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+10:39:58 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+10:40:29 [INFO] [mrmoo420] <-> InitialHandler has connected
+10:40:29 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:40:29 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:40:29 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+10:42:27 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+10:42:27 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+10:44:34 [INFO] [silly_monkey] <-> InitialHandler has connected
+10:44:34 [INFO] Player 'silly_monkey' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:44:34 [INFO] Player 'silly_monkey' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:44:34 [INFO] [silly_monkey] <-> ServerConnector [lobby] has connected
+10:44:40 [INFO] [silly_monkey] -> UpstreamBridge has disconnected
+10:44:40 [INFO] [silly_monkey] <-> DownstreamBridge <-> [lobby] has disconnected
+10:44:59 [INFO] [abigail_hill] <-> InitialHandler has connected
+10:44:59 [INFO] Player 'abigail_hill' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+10:44:59 [INFO] Player 'abigail_hill' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+10:44:59 [INFO] [abigail_hill] <-> ServerConnector [lobby] has connected
+10:50:40 [INFO] [abigail_hill] -> UpstreamBridge has disconnected
+10:50:40 [INFO] [abigail_hill] <-> DownstreamBridge <-> [lobby] has disconnected
+10:54:50 [INFO] Enabled BungeeCord version unknown
+10:54:52 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:54:52 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:54:52 [INFO] Listening websockets on /127.0.0.1:1
+10:54:53 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:54:53 [INFO] Reload complete
+10:54:53 [INFO] Listening on /127.11.0.1:40771
+11:07:03 [INFO] Enabled BungeeCord version unknown
+11:07:04 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:07:05 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:07:05 [INFO] Listening websockets on /127.0.0.1:1
+11:07:05 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:07:05 [INFO] Reload complete
+11:07:06 [INFO] Listening on /127.11.0.1:33577
+11:17:22 [INFO] [abigail_hill] <-> InitialHandler has connected
+11:17:22 [INFO] Player 'abigail_hill' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:17:22 [INFO] Player 'abigail_hill' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:17:22 [INFO] [abigail_hill] <-> ServerConnector [lobby] has connected
+11:20:48 [INFO] [abigail_hill] -> UpstreamBridge has disconnected
+11:20:48 [WARNING] [abigail_hill] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+11:20:48 [INFO] [abigail_hill] <-> DownstreamBridge <-> [lobby] has disconnected
+11:45:51 [INFO] [abigail_hill] <-> InitialHandler has connected
+11:45:51 [INFO] Player 'abigail_hill' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+11:45:51 [INFO] Player 'abigail_hill' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+11:45:51 [INFO] [abigail_hill] <-> ServerConnector [lobby] has connected
+12:07:25 [INFO] Enabled BungeeCord version unknown
+12:07:27 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:07:28 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:07:28 [INFO] Listening websockets on /127.0.0.1:1
+12:07:30 [INFO] Listening on /127.11.0.1:43413
+12:07:30 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:07:30 [INFO] Reload complete
+12:07:43 [INFO] [abigail_hill] <-> InitialHandler has connected
+12:07:43 [INFO] Player 'abigail_hill' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+12:07:43 [INFO] Player 'abigail_hill' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:07:43 [SEVERE] Nov 07, 2022 12:07:43 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+12:07:43 [SEVERE] Nov 07, 2022 12:07:43 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+12:07:43 [INFO] [abigail_hill] -> UpstreamBridge has disconnected
+12:07:43 [INFO] [abigail_hill] <-> ServerConnector [lobby] has connected
+12:07:43 [INFO] [abigail_hill] <-> ServerConnector [lobby] has disconnected
+12:08:03 [INFO] [abigail_hill] <-> InitialHandler has connected
+12:08:03 [INFO] Player 'abigail_hill' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+12:08:03 [INFO] Player 'abigail_hill' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+12:08:03 [INFO] [abigail_hill] <-> ServerConnector [lobby] has connected
+12:23:45 [INFO] [abigail_hill] -> UpstreamBridge has disconnected
+12:23:45 [INFO] [abigail_hill] <-> DownstreamBridge <-> [lobby] has disconnected
+13:10:48 [INFO] Enabled BungeeCord version unknown
+13:10:50 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:10:50 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:10:50 [INFO] Listening websockets on /127.0.0.1:1
+13:10:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:10:51 [INFO] Reload complete
+13:10:51 [INFO] Listening on /127.11.0.1:39107
+13:11:25 [INFO] [mrmoo420] <-> InitialHandler has connected
+13:11:25 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:11:25 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:11:26 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+13:12:36 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:12:36 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:12:36 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:12:36 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:14:00 [INFO] [abigail_hill] <-> InitialHandler has connected
+13:14:00 [INFO] Player 'abigail_hill' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:14:00 [INFO] Player 'abigail_hill' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:14:00 [INFO] [abigail_hill] <-> ServerConnector [lobby] has connected
+13:25:16 [INFO] [abigail_hill] -> UpstreamBridge has disconnected
+13:25:16 [WARNING] [abigail_hill] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+13:25:16 [INFO] [abigail_hill] <-> DownstreamBridge <-> [lobby] has disconnected
+13:25:26 [INFO] [fortnitesexgamer] <-> InitialHandler has connected
+13:25:26 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:25:26 [INFO] Player 'fortnitesexgamer' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:25:26 [INFO] [fortnitesexgamer] <-> ServerConnector [lobby] has connected
+13:25:27 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:25:27 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+13:25:28 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+13:25:28 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+13:25:34 [INFO] [fortnitesexgamer] -> UpstreamBridge has disconnected
+13:25:34 [INFO] [fortnitesexgamer] <-> DownstreamBridge <-> [lobby] has disconnected
+13:28:17 [INFO] [abigail_hill] <-> InitialHandler has connected
+13:28:17 [INFO] Player 'abigail_hill' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:28:17 [INFO] Player 'abigail_hill' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:28:17 [INFO] [abigail_hill] <-> ServerConnector [lobby] has connected
+13:29:20 [INFO] [abigail_hill] -> UpstreamBridge has disconnected
+13:29:20 [INFO] [abigail_hill] <-> DownstreamBridge <-> [lobby] has disconnected
+13:29:21 [SEVERE] Nov 07, 2022 1:29:21 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+13:29:21 [SEVERE] Nov 07, 2022 1:29:21 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 1 channel(s) to the new Selector.
+
+13:29:47 [INFO] [NeonDelta432] <-> InitialHandler has connected
+13:29:47 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:29:47 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:29:47 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+13:30:04 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:30:04 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:30:04 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:30:04 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:30:44 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+13:30:44 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+13:31:18 [INFO] [CytusMc] <-> InitialHandler has connected
+13:31:18 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:31:18 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:31:18 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:31:45 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:31:45 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:31:50 [INFO] [CytusMc] <-> InitialHandler has connected
+13:31:50 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:31:50 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:31:50 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:32:09 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:32:09 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+13:32:24 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:32:24 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:32:24 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:32:24 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:32:25 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:32:25 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:32:32 [INFO] [CytusMc] <-> InitialHandler has connected
+13:32:32 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:32:32 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:32:32 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:33:48 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:33:48 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+13:35:24 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:35:24 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:35:24 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:35:24 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:36:27 [INFO] [NeonDelta432] <-> InitialHandler has connected
+13:36:27 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:36:27 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:36:27 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+13:38:04 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:38:04 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+13:38:52 [INFO] [NeonDelta432] disconnected with: [Kicked] My name is walter hartwell white
+13:38:52 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+13:38:52 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+13:39:06 [INFO] [NeonDelta432] <-> InitialHandler has connected
+13:39:06 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:39:06 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:39:06 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+13:41:10 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:41:10 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:41:14 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:41:14 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:41:14 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:41:14 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:41:35 [INFO] [CytusMc] <-> InitialHandler has connected
+13:41:35 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:41:35 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:41:35 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:42:06 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+13:42:06 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:07 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:43:07 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:43:51 [INFO] [CytusMc] <-> InitialHandler has connected
+13:43:51 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:43:51 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:43:51 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:44:33 [INFO] [Flamefoxtalon] disconnected with: [Kicked] this is a Sus only server
+13:44:33 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:44:33 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+13:44:41 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:44:41 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:44:41 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:44:41 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:44:56 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:44:56 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:45:11 [INFO] [mrmoo420] <-> InitialHandler has connected
+13:45:11 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:45:11 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:45:11 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+13:45:39 [INFO] [CytusMc] <-> InitialHandler has connected
+13:45:39 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:45:39 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:45:39 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+13:46:06 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:46:06 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+13:52:49 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+13:52:49 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+13:52:58 [INFO] [mrmoo420] <-> InitialHandler has connected
+13:52:58 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:52:58 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:52:58 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+13:53:17 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:53:17 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:53:17 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:53:17 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:55:24 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+13:55:24 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+13:55:31 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:55:31 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+13:57:29 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+13:57:29 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+13:57:29 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+13:57:29 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+13:59:49 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+13:59:49 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+14:00:30 [INFO] [gracie_ovenden] <-> InitialHandler has connected
+14:00:30 [INFO] Player 'gracie_ovenden' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:00:30 [INFO] Player 'gracie_ovenden' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:00:30 [INFO] [gracie_ovenden] <-> ServerConnector [lobby] has connected
+14:00:52 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+14:00:52 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:00:52 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:00:52 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+14:05:22 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+14:05:22 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+14:05:55 [WARNING] [gracie_ovenden] -> UpstreamBridge - read timed out
+14:05:55 [INFO] [gracie_ovenden] disconnected with: ReadTimeoutException : null
+14:05:55 [INFO] [gracie_ovenden] -> UpstreamBridge has disconnected
+14:05:55 [INFO] [gracie_ovenden] <-> DownstreamBridge <-> [lobby] has disconnected
+14:08:17 [INFO] [gracie_ovenden] <-> InitialHandler has connected
+14:08:17 [INFO] Player 'gracie_ovenden' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:08:17 [INFO] Player 'gracie_ovenden' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:08:17 [INFO] [gracie_ovenden] <-> ServerConnector [lobby] has connected
+14:11:26 [INFO] Enabled BungeeCord version unknown
+14:11:27 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:11:27 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:11:27 [INFO] Listening websockets on /127.0.0.1:1
+14:11:28 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:11:28 [INFO] Reload complete
+14:11:28 [INFO] Listening on /127.11.0.1:34415
+14:12:52 [INFO] [mrmoo420] <-> InitialHandler has connected
+14:12:52 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:12:52 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:12:53 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+14:12:54 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+14:12:54 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:12:54 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:12:54 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+14:15:16 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+14:15:16 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+14:19:37 [INFO] [gracie_ovenden] <-> InitialHandler has connected
+14:19:37 [INFO] Player 'gracie_ovenden' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:19:37 [INFO] Player 'gracie_ovenden' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:19:38 [INFO] [gracie_ovenden] <-> ServerConnector [lobby] has connected
+14:20:38 [INFO] [CytusMc] <-> InitialHandler has connected
+14:20:38 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:20:38 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:20:38 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+14:21:04 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+14:21:04 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+14:21:13 [INFO] [mrmoo420] <-> InitialHandler has connected
+14:21:13 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:21:13 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:21:13 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+14:24:39 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+14:24:39 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+14:25:45 [INFO] [gracie_ovenden] -> UpstreamBridge has disconnected
+14:25:45 [INFO] [gracie_ovenden] <-> DownstreamBridge <-> [lobby] has disconnected
+14:25:53 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+14:25:53 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+14:45:00 [INFO] [NeonDelta432] <-> InitialHandler has connected
+14:45:00 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:45:00 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:45:00 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+14:45:52 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+14:45:52 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+14:45:57 [INFO] [NeonDelta432] <-> InitialHandler has connected
+14:45:57 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:45:57 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:45:57 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+14:48:13 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+14:48:13 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+14:48:55 [INFO] [your_father] <-> InitialHandler has connected
+14:48:55 [INFO] Player 'your_father' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+14:48:55 [INFO] Player 'your_father' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+14:48:55 [INFO] [your_father] <-> ServerConnector [lobby] has connected
+14:59:31 [WARNING] [your_father] -> UpstreamBridge - read timed out
+14:59:31 [INFO] [your_father] disconnected with: ReadTimeoutException : null
+14:59:31 [INFO] [your_father] -> UpstreamBridge has disconnected
+14:59:31 [INFO] [your_father] <-> DownstreamBridge <-> [lobby] has disconnected
+15:03:18 [INFO] [your_father] <-> InitialHandler has connected
+15:03:18 [INFO] Player 'your_father' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+15:03:18 [INFO] Player 'your_father' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+15:03:18 [INFO] [your_father] <-> ServerConnector [lobby] has connected
+15:05:57 [WARNING] [your_father] -> UpstreamBridge - read timed out
+15:05:57 [INFO] [your_father] disconnected with: ReadTimeoutException : null
+15:05:57 [INFO] [your_father] -> UpstreamBridge has disconnected
+15:05:57 [INFO] [your_father] <-> DownstreamBridge <-> [lobby] has disconnected
+15:05:57 [SEVERE] Nov 07, 2022 3:05:57 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+15:05:57 [SEVERE] Nov 07, 2022 3:05:57 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+15:15:57 [INFO] Enabled BungeeCord version unknown
+15:15:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:15:59 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+15:16:00 [INFO] Listening websockets on /127.0.0.1:1
+15:16:01 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:16:01 [INFO] Listening on /127.11.0.1:46751
+15:16:01 [INFO] Reload complete
+17:04:21 [INFO] Enabled BungeeCord version unknown
+17:04:23 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:04:23 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:04:24 [INFO] Listening websockets on /127.0.0.1:1
+17:04:26 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:04:26 [INFO] Reload complete
+17:04:26 [INFO] Listening on /127.11.0.1:45209
+17:05:35 [INFO] [mrmoo420] <-> InitialHandler has connected
+17:05:35 [INFO] Player 'mrmoo420' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+17:05:35 [INFO] Player 'mrmoo420' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:05:35 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+17:12:15 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+17:12:15 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+17:12:19 [INFO] [mrmoo420] <-> InitialHandler has connected
+17:12:19 [INFO] Player 'mrmoo420' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+17:12:19 [INFO] Player 'mrmoo420' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:12:20 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+17:39:46 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+17:39:46 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+17:50:35 [INFO] [mrmoo420] <-> InitialHandler has connected
+17:50:35 [INFO] Player 'mrmoo420' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+17:50:35 [INFO] Player 'mrmoo420' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+17:50:36 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+17:54:49 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+17:54:49 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+18:23:17 [INFO] Enabled BungeeCord version unknown
+18:23:18 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:23:18 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:23:18 [INFO] Listening websockets on /127.0.0.1:1
+18:23:19 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:23:19 [INFO] Reload complete
+18:23:19 [INFO] Listening on /127.11.0.1:39525
+18:23:55 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+18:23:55 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+18:23:55 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:23:55 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+18:23:59 [INFO] [your_father] <-> InitialHandler has connected
+18:23:59 [INFO] Player 'your_father' [/141.195.132.107] has remote websocket IP: 141.195.132.107
+18:23:59 [INFO] Player 'your_father' [/141.195.132.107] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:23:59 [INFO] [your_father] <-> ServerConnector [lobby] has connected
+18:28:39 [INFO] [CytusMc] <-> InitialHandler has connected
+18:28:39 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:28:39 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:28:39 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:31:07 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+18:31:07 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+18:31:07 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+18:31:07 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+18:31:38 [INFO] [CytusMc] <-> InitialHandler has connected
+18:31:38 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:31:38 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:31:38 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:32:39 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+18:32:39 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+18:32:39 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+18:32:39 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+18:32:58 [INFO] [CytusMc] <-> InitialHandler has connected
+18:32:58 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:32:58 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:32:58 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:37:41 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+18:37:41 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+18:38:09 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+18:38:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+18:38:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:38:09 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+18:42:35 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+18:42:36 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+18:42:42 [INFO] [CytusMc] <-> InitialHandler has connected
+18:42:42 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+18:42:42 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:42:42 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+18:43:44 [INFO] [your_father] -> UpstreamBridge has disconnected
+18:43:44 [INFO] [your_father] <-> DownstreamBridge <-> [lobby] has disconnected
+18:44:11 [INFO] [your_father] <-> InitialHandler has connected
+18:44:11 [INFO] Player 'your_father' [/141.195.132.107] has remote websocket IP: 141.195.132.107
+18:44:11 [INFO] Player 'your_father' [/141.195.132.107] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:44:11 [INFO] [your_father] <-> ServerConnector [lobby] has connected
+18:48:28 [INFO] [your_father] -> UpstreamBridge has disconnected
+18:48:28 [INFO] [your_father] <-> DownstreamBridge <-> [lobby] has disconnected
+18:48:39 [INFO] [your_father] <-> InitialHandler has connected
+18:48:39 [INFO] Player 'your_father' [/141.195.132.107] has remote websocket IP: 141.195.132.107
+18:48:39 [INFO] Player 'your_father' [/141.195.132.107] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:48:39 [INFO] [your_father] <-> ServerConnector [lobby] has connected
+18:53:51 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+18:53:51 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+18:53:57 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+18:53:57 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+18:53:57 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:53:57 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+18:54:30 [INFO] [your_father] -> UpstreamBridge has disconnected
+18:54:30 [INFO] [your_father] <-> DownstreamBridge <-> [lobby] has disconnected
+18:54:33 [INFO] [your_father] <-> InitialHandler has connected
+18:54:33 [INFO] Player 'your_father' [/141.195.132.107] has remote websocket IP: 141.195.132.107
+18:54:33 [INFO] Player 'your_father' [/141.195.132.107] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:54:33 [INFO] [your_father] <-> ServerConnector [lobby] has connected
+18:55:33 [INFO] [your_father] -> UpstreamBridge has disconnected
+18:55:33 [INFO] [your_father] <-> DownstreamBridge <-> [lobby] has disconnected
+18:56:03 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+18:56:04 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+18:56:09 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+18:56:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+18:56:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+18:56:09 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+19:21:05 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+19:21:05 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+19:21:10 [INFO] [CytusMc] <-> InitialHandler has connected
+19:21:10 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+19:21:10 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:21:10 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+19:23:37 [INFO] Enabled BungeeCord version unknown
+19:23:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+19:23:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+19:23:40 [INFO] Listening websockets on /127.0.0.1:1
+19:23:41 [INFO] Server bans.txt changed, it will be reloaded automatically
+19:23:41 [INFO] Reload complete
+19:23:41 [INFO] Listening on /127.11.0.1:43741
+19:24:02 [INFO] [CytusMc] <-> InitialHandler has connected
+19:24:02 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+19:24:02 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:24:02 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+19:24:25 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+19:24:25 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+19:24:25 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:24:25 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+19:29:38 [INFO] [mrmoo420] <-> InitialHandler has connected
+19:29:38 [INFO] Player 'mrmoo420' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+19:29:38 [INFO] Player 'mrmoo420' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:29:39 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+19:38:48 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+19:38:48 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+19:40:31 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+19:40:31 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+19:40:36 [INFO] [CytusMc] <-> InitialHandler has connected
+19:40:36 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+19:40:36 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:40:36 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+19:40:41 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+19:40:41 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+19:40:59 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+19:40:59 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+19:40:59 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:40:59 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+19:42:43 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+19:42:43 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+19:42:48 [INFO] [CytusMc] <-> InitialHandler has connected
+19:42:48 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+19:42:48 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:42:49 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+19:45:42 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+19:45:42 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+19:45:50 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+19:45:50 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+19:45:50 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:45:51 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+19:46:57 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+19:46:57 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+19:47:21 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+19:47:21 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+19:47:21 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+19:47:22 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+19:57:24 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+19:57:25 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:01:11 [INFO] [CytusMc] <-> InitialHandler has connected
+20:01:11 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:01:11 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:01:11 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:01:22 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:01:22 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:02:18 [INFO] [CytusMc] <-> InitialHandler has connected
+20:02:18 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:02:18 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:02:18 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:05:53 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:05:53 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:06:48 [INFO] [NeonDelta432] <-> InitialHandler has connected
+20:06:48 [INFO] Player 'NeonDelta432' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:06:48 [INFO] Player 'NeonDelta432' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:06:48 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+20:08:54 [INFO] [CytusMc] <-> InitialHandler has connected
+20:08:54 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:08:54 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:08:54 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:10:56 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:10:56 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:11:11 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:11:11 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:11:11 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:11:11 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:11:20 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:11:20 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:13:04 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:13:04 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:13:13 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:13:13 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:13:13 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:13:13 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:13:18 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:13:18 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:13:33 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:13:33 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:13:33 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:13:33 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:19:12 [INFO] [CytusMc] <-> InitialHandler has connected
+20:19:12 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:19:12 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:19:12 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:21:14 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+20:21:14 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+20:21:14 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:21:14 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:21:35 [INFO] [CytusMc] <-> InitialHandler has connected
+20:21:35 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:21:35 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:21:35 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:23:39 [INFO] Enabled BungeeCord version unknown
+20:23:41 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:23:41 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:23:41 [INFO] Listening websockets on /127.0.0.1:1
+20:23:42 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:23:42 [INFO] Reload complete
+20:23:42 [INFO] Listening on /127.11.0.1:41763
+20:23:52 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:23:52 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:23:52 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:23:53 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:23:58 [INFO] [NeonDelta432] <-> InitialHandler has connected
+20:23:58 [INFO] Player 'NeonDelta432' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:23:58 [INFO] Player 'NeonDelta432' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:23:58 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+20:24:01 [INFO] [CytusMc] <-> InitialHandler has connected
+20:24:01 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:24:01 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:24:01 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:26:05 [WARNING] [CytusMc] -> UpstreamBridge - read timed out
+20:26:05 [INFO] [CytusMc] disconnected with: ReadTimeoutException : null
+20:26:05 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:26:05 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:32:37 [INFO] [CytusMc] <-> InitialHandler has connected
+20:32:37 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:32:37 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:32:37 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:45:31 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:45:31 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:45:48 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:45:48 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:45:48 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:45:48 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:48:55 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:48:55 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:49:07 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:49:07 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:49:07 [INFO] [CytusMc] <-> InitialHandler has connected
+20:49:07 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:49:07 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:49:07 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:49:11 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:49:11 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:49:11 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:49:11 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:49:22 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:49:22 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:49:24 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:49:24 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:49:38 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:49:38 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:49:38 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:49:38 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:49:40 [INFO] [CytusMc] <-> InitialHandler has connected
+20:49:40 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:49:40 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:49:40 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:51:17 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:51:17 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:51:33 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:51:33 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:51:33 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:51:33 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:52:49 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:52:49 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:52:55 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:52:56 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:52:57 [INFO] [CytusMc] <-> InitialHandler has connected
+20:52:57 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:52:57 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:52:57 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:53:09 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:53:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:53:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:53:09 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:53:19 [INFO] [CytusMc] disconnected with: [Proxy] Lost connection to server.
+20:53:19 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:53:19 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:53:23 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+20:53:23 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+20:53:29 [INFO] [CytusMc] <-> InitialHandler has connected
+20:53:29 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:53:29 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:53:29 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+20:53:33 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+20:53:33 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+20:53:33 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:53:33 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+20:58:19 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+20:58:19 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+20:59:07 [INFO] [CytusMc] <-> InitialHandler has connected
+20:59:07 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+20:59:07 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+20:59:07 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+21:03:38 [INFO] [CytusMc] disconnected with: [Kicked] You dropped your items too quickly (Hacking?)
+21:03:38 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+21:03:38 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+21:03:38 [SEVERE] Nov 07, 2022 9:03:38 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+21:03:38 [SEVERE] Nov 07, 2022 9:03:38 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 5 channel(s) to the new Selector.
+
+21:03:45 [INFO] [CytusMc] <-> InitialHandler has connected
+21:03:45 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+21:03:45 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:03:46 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+21:05:41 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+21:05:41 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+21:05:47 [INFO] [CytusMc] <-> InitialHandler has connected
+21:05:47 [INFO] Player 'CytusMc' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+21:05:47 [INFO] Player 'CytusMc' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:05:48 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+21:15:22 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+21:15:22 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+21:15:25 [INFO] [NeonDelta432] <-> InitialHandler has connected
+21:15:25 [INFO] Player 'NeonDelta432' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+21:15:25 [INFO] Player 'NeonDelta432' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:15:25 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+21:21:24 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+21:21:24 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+21:23:53 [INFO] Enabled BungeeCord version unknown
+21:23:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:23:54 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:23:54 [INFO] Listening websockets on /127.0.0.1:1
+21:23:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:23:55 [INFO] Reload complete
+21:23:56 [INFO] Listening on /127.11.0.1:37759
+21:24:09 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+21:24:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+21:24:09 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:24:09 [SEVERE] Nov 07, 2022 9:24:09 PM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+21:24:09 [SEVERE] Nov 07, 2022 9:24:09 PM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+21:24:09 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+21:24:09 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+21:24:09 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has disconnected
+21:24:10 [INFO] [NeonDelta432] <-> InitialHandler has connected
+21:24:10 [INFO] Player 'NeonDelta432' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+21:24:10 [INFO] Player 'NeonDelta432' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:24:10 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+21:24:10 [WARNING] [NeonDelta432] <-> ServerConnector [lobby] - IOException: Connection reset by peer
+21:24:10 [INFO] [NeonDelta432] disconnected with: Exception Connecting:IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+21:24:10 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+21:24:10 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has disconnected
+21:24:16 [INFO] [NeonDelta432] <-> InitialHandler has connected
+21:24:16 [INFO] Player 'NeonDelta432' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+21:24:16 [INFO] Player 'NeonDelta432' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:24:16 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+21:24:16 [WARNING] [NeonDelta432] <-> ServerConnector [lobby] - IOException: Connection reset by peer
+21:24:16 [INFO] [NeonDelta432] disconnected with: Exception Connecting:IOException : Connection reset by peer @ sun.nio.ch.FileDispatcherImpl:-2
+21:24:17 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+21:24:17 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has disconnected
+21:24:50 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+21:24:50 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+21:24:50 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:24:50 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+21:24:58 [INFO] [NeonDelta432] <-> InitialHandler has connected
+21:24:58 [INFO] Player 'NeonDelta432' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+21:24:58 [INFO] Player 'NeonDelta432' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:24:58 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+21:37:28 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+21:37:28 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+21:37:37 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+21:37:37 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+21:37:37 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:37:37 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+21:39:35 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+21:39:35 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+21:39:47 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+21:39:47 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+21:39:49 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+21:39:49 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+21:39:49 [INFO] Player 'Flamefoxtalon' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:39:49 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+21:39:51 [INFO] [NeonDelta432] <-> InitialHandler has connected
+21:39:51 [INFO] Player 'NeonDelta432' [/85.92.185.194] has remote websocket IP: 85.92.185.194
+21:39:51 [INFO] Player 'NeonDelta432' [/85.92.185.194] is using a client at: eaglercraft-server.20lflannigan.repl.co
+21:39:51 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+21:42:54 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+21:42:54 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+21:44:44 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+21:44:44 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+07:06:29 [INFO] Enabled BungeeCord version unknown
+07:06:30 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:06:30 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:06:31 [INFO] Listening websockets on /127.0.0.1:1
+07:06:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:06:31 [INFO] Reload complete
+07:06:31 [INFO] Listening on /127.11.0.1:42437
+07:07:35 [INFO] [mrmoo420] <-> InitialHandler has connected
+07:07:35 [INFO] Player 'mrmoo420' [/85.92.185.193] has remote websocket IP: 85.92.185.193
+07:07:35 [INFO] Player 'mrmoo420' [/85.92.185.193] is using a client at: eaglercraft-server.20lflannigan.repl.co
+07:07:36 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+07:10:23 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+07:10:23 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+08:43:33 [INFO] Enabled BungeeCord version unknown
+08:43:37 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+08:43:37 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+08:43:37 [INFO] Listening websockets on /127.0.0.1:1
+08:43:39 [INFO] Server bans.txt changed, it will be reloaded automatically
+08:43:39 [INFO] Reload complete
+08:43:39 [INFO] Listening on /127.11.0.1:37513
+08:44:40 [INFO] [NeonDelta432] <-> InitialHandler has connected
+08:44:40 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+08:44:40 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+08:44:41 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+08:49:43 [INFO] [mrmoo420] <-> InitialHandler has connected
+08:49:43 [INFO] Player 'mrmoo420' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+08:49:43 [INFO] Player 'mrmoo420' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+08:49:43 [INFO] [mrmoo420] <-> ServerConnector [lobby] has connected
+08:50:01 [INFO] [Flamefoxtalon] <-> InitialHandler has connected
+08:50:01 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+08:50:01 [INFO] Player 'Flamefoxtalon' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+08:50:01 [INFO] [Flamefoxtalon] <-> ServerConnector [lobby] has connected
+08:50:28 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+08:50:28 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+08:50:58 [INFO] [mrmoo420] -> UpstreamBridge has disconnected
+08:50:58 [INFO] [mrmoo420] <-> DownstreamBridge <-> [lobby] has disconnected
+08:51:55 [WARNING] [Flamefoxtalon] -> UpstreamBridge - read timed out
+08:51:55 [INFO] [Flamefoxtalon] disconnected with: ReadTimeoutException : null
+08:51:55 [INFO] [Flamefoxtalon] -> UpstreamBridge has disconnected
+08:51:55 [SEVERE] Nov 08, 2022 8:51:55 AM io.netty.channel.nio.NioEventLoop select
+WARNING: Selector.select() returned prematurely 512 times in a row; rebuilding selector.
+
+08:51:55 [SEVERE] Nov 08, 2022 8:51:55 AM io.netty.channel.nio.NioEventLoop rebuildSelector
+INFO: Migrated 0 channel(s) to the new Selector.
+
+08:51:55 [INFO] [Flamefoxtalon] <-> DownstreamBridge <-> [lobby] has disconnected
+09:03:36 [INFO] [CytusMc] <-> InitialHandler has connected
+09:03:36 [INFO] Player 'CytusMc' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:03:36 [INFO] Player 'CytusMc' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:03:36 [INFO] [CytusMc] <-> ServerConnector [lobby] has connected
+09:04:40 [INFO] [CytusMc] -> UpstreamBridge has disconnected
+09:04:40 [INFO] [CytusMc] <-> DownstreamBridge <-> [lobby] has disconnected
+09:44:21 [INFO] Enabled BungeeCord version unknown
+09:44:22 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+09:44:22 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+09:44:23 [INFO] Listening websockets on /127.0.0.1:1
+09:44:23 [INFO] Server bans.txt changed, it will be reloaded automatically
+09:44:23 [INFO] Reload complete
+09:44:23 [INFO] Listening on /127.11.0.1:32935
+09:44:32 [INFO] [NeonDelta432] <-> InitialHandler has connected
+09:44:32 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:44:32 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:44:32 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+09:46:53 [INFO] [NeonDelta432] disconnected with: [Proxy] Lost connection to server.
+09:46:53 [INFO] [NeonDelta432] <-> DownstreamBridge <-> [lobby] has disconnected
+09:46:53 [INFO] [NeonDelta432] -> UpstreamBridge has disconnected
+09:54:19 [INFO] [NeonDelta432] <-> InitialHandler has connected
+09:54:19 [INFO] Player 'NeonDelta432' [/176.126.229.215] has remote websocket IP: 176.126.229.215
+09:54:19 [INFO] Player 'NeonDelta432' [/176.126.229.215] is using a client at: eaglercraft-server.20lflannigan.repl.co
+09:54:19 [INFO] [NeonDelta432] <-> ServerConnector [lobby] has connected
+10:05:06 [INFO] Enabled BungeeCord version unknown
+10:05:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:05:07 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:05:07 [INFO] Listening websockets on /127.0.0.1:1
+10:05:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:05:08 [INFO] Reload complete
+10:05:08 [INFO] Listening on /127.11.0.1:38257
+10:13:52 [INFO] Enabled BungeeCord version unknown
+10:13:53 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:13:53 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:13:54 [INFO] Listening websockets on /127.0.0.1:1
+10:13:54 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:13:54 [INFO] Reload complete
+10:13:54 [INFO] Listening on /127.11.0.1:36431
